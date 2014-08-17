@@ -1,0 +1,18 @@
+2014-08-16 20:19:12.300 TestOne[1867:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-16 20:19:12.399 TestOne[1867:70b] Unlimited access to network resources
+2014-08-16 20:19:12.405 TestOne[1867:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-16 20:19:14.295 TestOne[1867:70b] [CDVTimer][file] 12.161970ms
+2014-08-16 20:19:14.691 TestOne[1867:70b] [CDVTimer][splashscreen] 395.131052ms
+2014-08-16 20:19:14.692 TestOne[1867:70b] [CDVTimer][TotalPluginStartup] 409.237981ms
+2014-08-16 20:19:15.987 TestOne[1867:70b] Resetting plugins due to page load.
+2014-08-16 20:19:17.984 TestOne[1867:70b] Finished load of: file:///Users/zaidqureshi/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2203135E-A5DD-4C87-9F55-751FB69C5803/TestOne.app/www/index.html
+2014-08-16 20:19:19.230 TestOne[1867:70b] THREAD WARNING: ['Device'] took '19.579834' ms. Plugin should use a background thread.
+2014-08-16 20:19:56.989 TestOne[1867:70b] THREAD WARNING: ['Geolocation'] took '17.079102' ms. Plugin should use a background thread.
+2014-08-16 20:20:02.273 TestOne[1867:70b] THREAD WARNING: ['Notification'] took '47.782227' ms. Plugin should use a background thread.
+2014-08-16 20:20:05.528 TestOne[1867:70b] THREAD WARNING: ['Notification'] took '11.530029' ms. Plugin should use a background thread.
