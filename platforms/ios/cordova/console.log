@@ -16,3 +16,31 @@ You could find it at the following address https://developer.apple.com/icloud/do
 2014-08-16 20:19:56.989 TestOne[1867:70b] THREAD WARNING: ['Geolocation'] took '17.079102' ms. Plugin should use a background thread.
 2014-08-16 20:20:02.273 TestOne[1867:70b] THREAD WARNING: ['Notification'] took '47.782227' ms. Plugin should use a background thread.
 2014-08-16 20:20:05.528 TestOne[1867:70b] THREAD WARNING: ['Notification'] took '11.530029' ms. Plugin should use a background thread.
+2014-08-17 01:50:59.318 TestOne[17015:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-17 01:50:59.383 TestOne[17015:70b] Unlimited access to network resources
+2014-08-17 01:50:59.389 TestOne[17015:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-17 01:50:59.769 TestOne[17015:70b] [CDVTimer][file] 1.409948ms
+2014-08-17 01:50:59.887 TestOne[17015:70b] [CDVTimer][splashscreen] 116.950035ms
+2014-08-17 01:50:59.887 TestOne[17015:70b] [CDVTimer][TotalPluginStartup] 120.350003ms
+2014-08-17 01:51:00.091 TestOne[17015:70b] Resetting plugins due to page load.
+2014-08-17 01:51:00.495 TestOne[17015:70b] Finished load of: file:///Users/zaidqureshi/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2203135E-A5DD-4C87-9F55-751FB69C5803/TestOne.app/www/index.html
+2014-08-17 01:52:06.188 TestOne[17516:70b] Multi-tasking -> Device: YES, App: YES
+2014-08-17 01:52:06.200 TestOne[17516:70b] Unlimited access to network resources
+2014-08-17 01:52:06.204 TestOne[17516:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-08-17 01:52:06.225 TestOne[17516:70b] [CDVTimer][file] 0.919998ms
+2014-08-17 01:52:06.241 TestOne[17516:70b] [CDVTimer][splashscreen] 13.958037ms
+2014-08-17 01:52:06.241 TestOne[17516:70b] [CDVTimer][TotalPluginStartup] 17.026007ms
+2014-08-17 01:52:06.407 TestOne[17516:70b] Resetting plugins due to page load.
+2014-08-17 01:52:06.972 TestOne[17516:70b] Finished load of: file:///Users/zaidqureshi/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/2203135E-A5DD-4C87-9F55-751FB69C5803/TestOne.app/www/index.html
